@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Eduardo 👋
 
-<!--
-**detalhe/detalhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer from Brazil, creating efficient and user-friendly applications.
 
-Here are some ideas to get you started:
+## Main Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![C](https://skillicons.dev/icons?i=c)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![AWS](https://skillicons.dev/icons?i=aws)
