@@ -19,5 +19,3 @@ Software developer from Brazil, creating efficient and user-friendly application
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![AWS](https://skillicons.dev/icons?i=aws)
-
-<a href="https://gitroll.io/profile/uK2HTWua0s1TXIwyGI3NFGNpQiVG2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uK2HTWua0s1TXIwyGI3NFGNpQiVG2" alt="GitRoll Profile Badge"/></a>
