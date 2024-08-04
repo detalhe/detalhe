@@ -24,8 +24,8 @@ i'm a software developer from Brazil, i love building apps that work smoothly an
 
 feel free to reach out:
 
-- 🔗 [linkedin](https://www.linkedin.com/in/detalhe/)
 - 🌐 [website](https://detalhe.uk/)
+- 🔗 [linkedin](https://www.linkedin.com/in/detalhe/)
 - 📧 [edu@detalhe.uk](mailto:edu@detalhe.uk)
 
 always open to interesting projects and new opportunities!
