@@ -1,6 +1,6 @@
 # hi, i'm Eduardo 👋
 
-i'm a software developer from the sunny shores of brazil, i love building apps that work smoothly and are beautiful to look at. when i'm not coding, you'll probably find me doodling ui designs or debating the merits of spaces over tabs (spoiler: tabs all the way!).
+i'm a software developer from Brazil, i love building apps that work smoothly and are beautiful to look at.
 
 ## some techs and tools i work with
 
@@ -22,9 +22,10 @@ i'm a software developer from the sunny shores of brazil, i love building apps t
 
 ## let's connect
 
-feel free to reach out for collaborations or just a friendly chat about tech:
+feel free to reach out:
 
-- [linkedin](https://www.linkedin.com/in/detalhe/)
-- [personal website](https://detalhe.uk/)
+- 🔗 [linkedin](https://www.linkedin.com/in/detalhe/)
+- 🌐 [website](https://detalhe.uk/)
+- 📧 [edu@detalhe.uk](mailto:edu@detalhe.uk)
 
 always open to interesting projects and new opportunities!
